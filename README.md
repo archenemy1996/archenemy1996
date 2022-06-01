@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Cryptography, Information Theory [-_-]
 - 📫 How to reach me: NOT AVAILABLE
 - ⚡ Playing VALORANT
-- ☣️ (archenemy1996.github.io)[archenemy1996.github.io]
+- ☣️ (archenemy1996.github.io)[https://archenemy1996.github.io/]
