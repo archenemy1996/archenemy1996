@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: NOT AVAILABLE
 - ⚡ Playing VALORANT
 - ☣️ [archenemy1996.github.io](https://archenemy1996.github.io/)
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=epythonlab&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epythonlab&layout=compact)
